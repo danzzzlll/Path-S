@@ -1,4 +1,4 @@
-# S&Path
+# Path&S
 ## App to find most private and safe path
 
 **Path‑S** is a small Python utility that finds a route between two geographic
