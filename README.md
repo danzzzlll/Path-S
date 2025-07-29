@@ -1,4 +1,4 @@
-# S&Path
+# Path-S
 ## App to find most private and safe path
 
 ```python
